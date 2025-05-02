@@ -12,9 +12,9 @@
 <br>
 
 <div>
-  <a href="www.github.com/Tomas-Machado">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomas-machado&show_icons=true&theme=tokyonight&include_all_comits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomas-machado&layout=compact&langs_count=16&theme=tokyonight">
+  <a href="https://www.github.com/Tomas-Machado" target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tomas-Machado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomas-Machado&layout=compact&langs_count=16&theme=tokyonight">
   </a>
 </div>
 
