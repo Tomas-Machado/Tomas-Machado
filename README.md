@@ -15,7 +15,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomas-Machado&layout=compact&langs_count=16&theme=tokyonight)](https://www.github.com/Tomas-Machado)
 
-
 <br>
 
 <div style="display: inline_block">
