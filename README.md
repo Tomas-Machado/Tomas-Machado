@@ -25,6 +25,8 @@
   <img align="center" alt="TM-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="TM-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest//icons/mysql/mysql-original.svg">
   <img align="center" alt="TM-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="TM-CLION" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg">
+  <img align="center" alt="TM-GITHUB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
 
 </div>
 
