@@ -3,11 +3,12 @@
 ## About me!
 
 - 😁 I’m currently pursuing a Bachelor’s degree in Computer Engineering at University of Minho.
-- 🥳 I am a 22 year old and from the Azores, Portugal.
+- 🥳 I am a 22 year old and from The Azores, Portugal.
 - 🛣️ I’m eager to start my career in Mobile Application Development.
 - 🤗 I’m fluent in Portuguese and English.
-- ⌛ I’m also learning Italian and Spanish (once I reach B1 level in both, I plan to start learning German and refresh my French).
-- 🔛 I’m actively seeking internships in Mobile Application Development (preferred area, but open to other opportunities).
+- ⌛ I’m also learning Italian and Spanish.
+- ✌️  Plan to start German and French after.
+- 🔛 Focused on improving my skills everyday.
 
 <br>
 
